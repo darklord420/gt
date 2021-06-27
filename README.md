@@ -1,1 +1,2 @@
-# gt
+covid
+non covid
